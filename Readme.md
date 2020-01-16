@@ -11,4 +11,4 @@
 |5| [LC-693 Binary number with alternating bits](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_693_binary_number_with_alternating_bits.java)
 |6| [LC-461 Hamming distance](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_461_hamming_distance.java)
 |7| [LC-371 Sum of 2 integers](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_371_sum_of_two_integers.java)
-|8| [LC-405 Convert a number to hexadecimal](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_405_convert_a_number_to_hex.java)
+|8| [LC-405 Convert a number to hexadecimal](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_405_convert_number_to_hex.java)
