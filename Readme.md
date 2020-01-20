@@ -13,3 +13,4 @@
 |7| [LC-371 Sum of 2 integers](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_371_sum_of_two_integers.java)
 |8| [LC-405 Convert a number to hexadecimal](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_405_convert_number_to_hex.java)
 |9| [LC-190 Reverse bits](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_190_reverse_bits.java)
+|10| [LC-389 Find the difference](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_389_find_the_difference.java)
