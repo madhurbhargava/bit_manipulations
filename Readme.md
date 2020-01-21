@@ -14,3 +14,4 @@
 |8| [LC-405 Convert a number to hexadecimal](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_405_convert_number_to_hex.java)
 |9| [LC-190 Reverse bits](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_190_reverse_bits.java)
 |10| [LC-389 Find the difference](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_389_find_the_difference.java)
+|11| [LC-136 Missing Number](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_136_missing_number.java)
