@@ -15,3 +15,4 @@
 |9| [LC-190 Reverse bits](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_190_reverse_bits.java)
 |10| [LC-389 Find the difference](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_389_find_the_difference.java)
 |11| [LC-136 Single Number](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_136_single_number.java)
+|12| [LC-137 Single Number II](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_137_single_number_II.java)
