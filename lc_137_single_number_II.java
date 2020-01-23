@@ -22,9 +22,7 @@ class Solution {
             int count = 31;
             while(num != 0) {
                 if((num & 1) == 1) {
-                    int counter = digits[count];
-                    counter++;
-                    digits[count] = counter;
+                    digits[count]++;
                 }
                 num >>>= 1;
                 count--;
