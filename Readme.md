@@ -18,3 +18,4 @@
 |12| [LC-137 Single Number II](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_137_single_number_II.java)
 |13| [LC-1310 Xor queries of a subarray](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_1310_xor_queries_of_subarray.java)
 |14| [LC-201 Bitwise AND of numbers range](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_201_bitwise_AND_of_numbers_range.java)
+|15| [LC-318 Max product of word lengths](https://github.com/madhurbhargava/bit_manipulations/blob/master/lc_318_max_product_of_word_lengths.java)
